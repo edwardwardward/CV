@@ -1,10 +1,12 @@
 ## Edward Ward
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Full stack junior web developer. Currently attending Makers Academy after a growing interest in coding brought on by working as an analyst at a global Startup Accelerator. Having grown from an amateur coder, I've now become fully confident to perform excel on a professional level & believe my experiences before coding will only help me succeed.
+
+In addition to what I've learnt at Makers I've also independently learned Python and been inspired by blockchain & digital currencies to learn the native language of Ethereum: solidity.
 
 ## Skills
 
-#### This Skill
+#### Analytical Thinker
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +14,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Quick Study
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2017 to May 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +34,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Edinburgh (Feb 2009 to July 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- International Business
+- 1st Class Degree
+- Year Abroad at McGill University (Montreal)
+
+#### IE Business School (Madrid) (Feb 2014 to Dec 2014)
+
+- Masters in Management, specialised in Marketing
+- GMAT: 720
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Startupbootcamp** (September 2015 to May 2016)    
+Analyst
+Primarily in a support function - responsoble for liasing with corporates regarding potential startup investments
+
+**The Challenge** (June 2015 to August 2015)   
+Analyst
+Worked on operational & marketing improvements for a young program (Step-Forward) 
+
+**Amazon** (Feb 2015 to June 2015)   
+Business Analyst/Consultant 
+Worked on the set-up team for bringing Prime Now to London
