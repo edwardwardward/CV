@@ -7,21 +7,15 @@ In addition to what I've learnt at Makers I've also independently learned Python
 ## Skills
 
 #### Analytical Thinker
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
+Experience as a business analyst where I made decisions that were often based on incomplete information. e.g. using data to determine the correct product mix for Amazon Prime Now.   
 #### Quick Study
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Lots of experience in learning new concepts & languages. While at Startupbootcamp I regularly did deep dives into new technologies to report on potential startups. 
+#### Adaptable
+Experienced many different working environments & culture with people from different backgrounds
+#### Team-Player
+Enjoy working in small teams, comfortable in both leadership and "team-player" positions. I've previously led a small team of 5 remotely on a project at Amazon.
+#### Works Well Under Pressure
+Not phased by tight deadlines, am willing to put in the extra effort to get the work done
 
 ## Education
 
