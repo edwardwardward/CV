@@ -9,11 +9,11 @@ PROJECTS:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Makers Society](https://github.com/road-to-code/road-to-code)      | Ethereum Blockchain built Members Token & Voting System                | Solidity, React, MetaMask, Web3, testrpc             |  Solidity, Mocha, Chai, testrpc       |
-| [Noughty News](https://github.com/sus111/codey-gonzalez)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | Rspec, Capybara                    |
-| [Find My Train](https://github.com/quad-piece/makers-bnb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
+| [Makers Society](https://github.com/UltimateCoder00/Makers-Society)      | Ethereum Blockchain built Members only Token & Voting System with GUI               | Solidity, React, MetaMask, Web3, testrpc             |  Solidity, Mocha, Chai, testrpc       |
+| [Noughty News](https://github.com/whatsrupp/noughty-news)       | A single page web app using only pure javascript & APIs to build a news aggregator                                          | JavaScript           | JavaScript(built own basic testing framework)                    |
+| [Find My Train](https://github.com/edwardwardward/train-spotter)            | Train App that gives you all you're train info at the click of a button  | Javascript, geolocator, APIs         | Jasmine, Mocha, Chai       |   
 
-You can see all of work thus far on my github <a href="https://github.com/sus111">profile</a>.
+You can see all of work thus far on my github <a href="https://github.com/edwardwardward">profile</a>.
 
 ## Skills
 
