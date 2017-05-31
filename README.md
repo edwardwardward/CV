@@ -32,9 +32,9 @@ Not phased by tight deadlines, am willing to put in the extra effort to get the 
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
 #### University of Edinburgh (Feb 2009 to July 2013)
