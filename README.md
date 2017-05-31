@@ -1,11 +1,9 @@
 ## Edward Ward
 
-Full stack junior web developer. Just graduated Makers Academy after a growing interest in coding brought on by working as an analyst at a global Startup Accelerator (Startupbootcamp). I've got a passion for Blockchain and have been researching the space for over a year - My Makers final project was a full stack Ethereum Dapp and recently [blogged on the subject](https://medium.com/@Edward.Ward_53210/apps-vs-dapps-71252543e734) 
-
-addition to what I've learnt at Makers I've also independently learned Python and been inspired by blockchain & digital currencies to learn the native language of Ethereum: solidity.
+Love coding - Full stack junior web developer. Just graduated Makers Academy after a growing interest in coding brought on by working as an analyst at a global Startup Accelerator (Startupbootcamp). Have a passion for Blockchain and been researching the space for over a year - My Makers final project was a full stack Ethereum Dapp and recently [blogged on the subject](https://medium.com/@Edward.Ward_53210/apps-vs-dapps-71252543e734) 
 
 
-PROJECTS:
+### PROJECTS:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
