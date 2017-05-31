@@ -9,9 +9,9 @@ PROJECTS:
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
-| [Makers Society](https://github.com/road-to-code/road-to-code)      | A game to help teach children the  foundations of programming.                | JavaScript,  Jquery             | Jasmine, Zombie, Mocha, Chai       |
+| [Makers Society](https://github.com/road-to-code/road-to-code)      | Ethereum Blockchain built Members Token & Voting System                | Solidity, React, MetaMask, Web3, testrpc             |  Solidity, Mocha, Chai, testrpc       |
 | [Noughty News](https://github.com/sus111/codey-gonzalez)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | Rspec, Capybara                    |
-| [](https://github.com/quad-piece/makers-bnb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
+| [Find My Train](https://github.com/quad-piece/makers-bnb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
 
 You can see all of work thus far on my github <a href="https://github.com/sus111">profile</a>.
 
