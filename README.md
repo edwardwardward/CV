@@ -50,7 +50,6 @@ Not phased by tight deadlines, am willing to put in the extra effort to get the 
 - Masters in Management, specialised in Marketing
 - GMAT: 720
 
-#### Any other qualifications
 
 ## Experience
 
