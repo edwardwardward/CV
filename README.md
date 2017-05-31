@@ -10,7 +10,7 @@ PROJECTS:
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Makers Society](https://github.com/UltimateCoder00/Makers-Society)      | Ethereum Blockchain built Members only Token & Voting System with GUI               | Solidity, React, MetaMask, Web3, testrpc             |  Solidity, Mocha, Chai, testrpc       |
-| [Noughty News](https://github.com/whatsrupp/noughty-news)       | A single page web app using only pure javascript & APIs to build a news aggregator                                          | JavaScript           | JavaScript(built own basic testing framework)                    |
+| [Noughty News](https://github.com/whatsrupp/noughty-news)       | Single page web app using only pure javascript & APIs to build a news aggregator                                          | JavaScript           | JavaScript(built own basic testing framework)                    |
 | [Find My Train](https://github.com/edwardwardward/train-spotter)            | Train App that gives you all you're train info at the click of a button  | Javascript, geolocator, APIs         | Jasmine, Mocha, Chai       |   
 
 You can see all of work thus far on my github <a href="https://github.com/edwardwardward">profile</a>.
