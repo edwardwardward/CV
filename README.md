@@ -28,7 +28,7 @@ Not phased by tight deadlines, am willing to put in the extra effort to get the 
 
 ## Education
 
-#### Makers Academy (March 2017 to May 2017)
+#### Makers Academy (March 2017 to June 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
