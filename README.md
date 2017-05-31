@@ -1,19 +1,19 @@
 ## Edward Ward
 
-Full stack junior web developer. Currently attending Makers Academy after a growing interest in coding brought on by working as an analyst at a global Startup Accelerator. Having grown from an amateur coder, I've now become fully confident to perform excel on a professional level & believe my experiences before coding will only help me succeed.
+Full stack junior web developer. Just graduated Makers Academy after a growing interest in coding brought on by working as an analyst at a global Startup Accelerator (Startupbootcamp). I've got a focus on Blockchain and have been researching the space for over a year - My Makers final project was a full stack Ethereum Dapp
 
-In addition to what I've learnt at Makers I've also independently learned Python and been inspired by blockchain & digital currencies to learn the native language of Ethereum: solidity.
+addition to what I've learnt at Makers I've also independently learned Python and been inspired by blockchain & digital currencies to learn the native language of Ethereum: solidity.
 
 ## Skills
 
 #### Analytical Thinker
 Experience as a business analyst where I made decisions that were often based on incomplete information. e.g. using data to determine the correct product mix for Amazon Prime Now.   
 #### Quick Study
-Lots of experience in learning new concepts & languages. While at Startupbootcamp I regularly did deep dives into new technologies to report on potential startups. 
+Lots of experience in learning new concepts & languages. While at Startupbootcamp I regularly did deep dives into new technologies to report on potential startups, sectors included Blockchain, AI, IoT, Fintech, etc...  
 #### Adaptable
-Experienced many different working environments & culture with people from different backgrounds
+Experienced many different working environments & culture with people from different backgrounds, happy working with engineers and marketeers :)
 #### Team-Player
-Enjoy working in small teams, comfortable in both leadership and "team-player" positions. I've previously led a small team of 5 remotely on a project at Amazon.
+Enjoy working in small teams, comfortable in both leadership and "team-player" positions. Previously led a small team of 5 remotely on a project at Amazon.
 #### Works Well Under Pressure
 Not phased by tight deadlines, am willing to put in the extra effort to get the work done
 
