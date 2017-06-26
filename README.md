@@ -49,16 +49,16 @@ Not phased by tight deadlines, am willing to put in the extra effort to get the 
 - GMAT: 720
 
 
-## Experience
+## Professional Experience
 
 **Startupbootcamp** (September 2015 to May 2016)    
 Analyst
-Primarily in a support function - responsoble for liasing with corporates regarding potential startup investments
+Responsible for conducting research on new areas of technology, providing support functions for startups and working with VCs and corporates regarding potential startup investments. 
 
 **The Challenge** (June 2015 to August 2015)   
 Analyst
-Worked on operational & marketing improvements for a young program (Step-Forward) 
+Worked on operational & marketing improvements for a new business area (Step-Forward).  
 
 **Amazon** (Feb 2015 to June 2015)   
 Business Analyst/Consultant 
-Worked on the set-up team for bringing Prime Now to London
+Worked on the set-up team for bringing Prime Now to London. Responsible for Product Mix selection & data population.
